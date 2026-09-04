@@ -1,0 +1,67 @@
+about:
+  description: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+  license: Apache-2.0
+  homepage: https://aws.amazon.com/cdk
+  head: 3f3a22b
+  archived: false
+  latestVersion: v2.268.0
+  collectedAt: 2026-09-04T04:25:58Z
+timeline:
+  created: 2017-10-04
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-02
+popularity:
+  star: 12885
+  watcher: 211
+  fork: 4620
+  release: 698
+  contributor: 1724
+  pullRequest: 4728
+  issue: 16564
+language:
+  TypeScript: 40715568
+  JavaScript: 252865
+  Python: 207612
+  Shell: 74166
+  Dockerfile: 12263
+  Alloy: 6348
+  Velocity Template Language: 2978
+  Go: 1103
+  C#: 501
+  HTML: 393
+  Ruby: 135
+  Batchfile: 127
+totalLine: 41274059
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 5
+    mergedPR: 94
+    openPR: 88
+    closedIssue: 6
+    openIssue: 47
+    commit: 148
+  last90d:
+    since: 2026-06-06
+    release: 13
+    mergedPR: 220
+    openPR: 172
+    closedIssue: 58
+    openIssue: 107
+    commit: 316
+  last180d:
+    since: 2026-03-08
+    release: 32
+    mergedPR: 583
+    openPR: 309
+    closedIssue: 150
+    openIssue: 191
+    commit: 755
+  last360d:
+    since: 2025-09-09
+    release: 67
+    mergedPR: 1382
+    openPR: 425
+    closedIssue: 371
+    openIssue: 359
+    commit: 1644
