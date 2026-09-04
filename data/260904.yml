@@ -7,7 +7,7 @@ about:
   head: 6860777
   archived: false
   latestVersion: v2.268.0
-  collectedAt: 2026-09-04T19:32:18Z
+  collectedAt: 2026-09-04T21:00:07Z
 timeline:
   created: 2017-10-04
   lastCommit: 2026-09-04
@@ -40,57 +40,170 @@ recent:
     release: 5
     mergedPR: 98
     openPR: 88
-    closedIssue: 9
-    openIssue: 48
+    closedIssue: 11
+    openIssue: 46
     commit: 152
   last60d:
     since: 2026-07-06
     release: 9
     mergedPR: 173
     openPR: 140
-    closedIssue: 39
-    openIssue: 91
+    closedIssue: 41
+    openIssue: 89
     commit: 253
   last90d:
     since: 2026-06-06
     release: 13
     mergedPR: 224
     openPR: 171
-    closedIssue: 61
-    openIssue: 108
+    closedIssue: 63
+    openIssue: 106
     commit: 320
   last180d:
     since: 2026-03-08
     release: 32
     mergedPR: 587
     openPR: 306
-    closedIssue: 153
-    openIssue: 192
+    closedIssue: 155
+    openIssue: 190
     commit: 759
   last360d:
     since: 2025-09-09
     release: 67
     mergedPR: 1386
     openPR: 422
-    closedIssue: 374
-    openIssue: 360
+    closedIssue: 376
+    openIssue: 358
     commit: 1648
   last720d:
     since: 2024-09-14
     release: 100
     mergedPR: 3241
     openPR: 464
-    closedIssue: 1266
-    openIssue: 773
+    closedIssue: 1268
+    openIssue: 771
     commit: 3918
 total:
   release: 698
   mergedPR: 15967
   openPR: 465
-  closedIssue: 14166
-  openIssue: 2402
+  closedIssue: 14168
+  openIssue: 2400
   commit: 18057
 ---
+path: /home/runner/.x-repo/github.com/aws/aws-cdk
+collectedAt: 2026-09-04T21:02:50Z
+loc:
+  JavaScript:
+    code: 12382328
+    comments: 245757
+    blanks: 50974
+    files: 1845
+  Json:
+    code: 3548808
+    comments: 0
+    blanks: 74
+    files: 15637
+  TypeScript:
+    code: 866927
+    comments: 244401
+    blanks: 130841
+    files: 6370
+  Python:
+    code: 45968
+    comments: 5697
+    blanks: 11010
+    files: 580
+  Yaml:
+    code: 2146
+    comments: 29
+    blanks: 137
+    files: 107
+  Sh:
+    code: 1433
+    comments: 426
+    blanks: 317
+    files: 65
+  Dockerfile:
+    code: 569
+    comments: 107
+    blanks: 140
+    files: 124
+  Xml:
+    code: 531
+    comments: 0
+    blanks: 0
+    files: 3
+  Graphql:
+    code: 404
+    comments: 0
+    blanks: 41
+    files: 22
+  Alloy:
+    code: 125
+    comments: 53
+    blanks: 23
+    files: 1
+  Bash:
+    code: 115
+    comments: 41
+    blanks: 25
+    files: 7
+  Toml:
+    code: 113
+    comments: 1
+    blanks: 24
+    files: 3
+  Svg:
+    code: 80
+    comments: 8
+    blanks: 0
+    files: 8
+  Html:
+    code: 60
+    comments: 0
+    blanks: 3
+    files: 37
+  CSharp:
+    code: 36
+    comments: 0
+    blanks: 12
+    files: 3
+  Go:
+    code: 33
+    comments: 2
+    blanks: 7
+    files: 1
+  Ruby:
+    code: 8
+    comments: 2
+    blanks: 2
+    files: 2
+  Bitbake:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 3
+  Batch:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 95012
+    blanks: 31607
+    files: 487
+  Text:
+    code: 0
+    comments: 109421
+    blanks: 105
+    files: 147
+total:
+  code: 16853335
+  comments: 701271
+  blanks: 225676
+  files: 25453
 ---
 date: "2026-08-24"
 repo:
