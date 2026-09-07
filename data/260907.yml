@@ -2,24 +2,24 @@ about:
   description: "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
   license: Apache-2.0
   homepage: https://aws.amazon.com/cdk
-  head: 6860777
+  head: c8f917d
   archived: false
   latestVersion: "v2.268.0"
-  collectedAt: 2026-09-07T04:32:10Z
+  collectedAt: 2026-09-07T19:49:55Z
 timeline:
   created: 2017-10-04
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-02
 popularity:
-  star: 12888
+  star: 12889
   watcher: 212
   fork: 4626
   release: 698
-  contributor: 1714
-  pullRequest: 20703
-  issue: 16569
+  contributor: 1715
+  pullRequest: 20710
+  issue: 16570
 language:
-  TypeScript: 40725090
+  TypeScript: 40740487
   JavaScript: 252865
   Python: 207612
   Shell: 74166
@@ -31,66 +31,66 @@ language:
   HTML: 393
   Ruby: 135
   Batchfile: 127
-totalBytes: 41283581
+totalBytes: 41298978
 recent:
   last30d:
     since: 2026-08-08
     release: 5
-    mergedPR: 86
-    openPR: 90
+    mergedPR: 90
+    openPR: 93
     closedIssue: 11
-    openIssue: 43
-    commit: 105
+    openIssue: 44
+    commit: 110
   last60d:
     since: 2026-07-09
     release: 9
-    mergedPR: 163
-    openPR: 144
+    mergedPR: 167
+    openPR: 147
     closedIssue: 39
-    openIssue: 87
-    commit: 237
+    openIssue: 88
+    commit: 242
   last90d:
     since: 2026-06-09
     release: 13
-    mergedPR: 220
-    openPR: 172
+    mergedPR: 224
+    openPR: 175
     closedIssue: 59
-    openIssue: 105
-    commit: 297
+    openIssue: 106
+    commit: 302
   last180d:
     since: 2026-03-11
     release: 31
-    mergedPR: 568
-    openPR: 302
+    mergedPR: 572
+    openPR: 305
     closedIssue: 152
-    openIssue: 188
-    commit: 725
+    openIssue: 189
+    commit: 730
   last360d:
     since: 2025-09-12
     release: 67
-    mergedPR: 1378
-    openPR: 421
+    mergedPR: 1383
+    openPR: 423
     closedIssue: 376
-    openIssue: 352
-    commit: 1635
+    openIssue: 353
+    commit: 1640
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 3234
-    openPR: 466
+    mergedPR: 3239
+    openPR: 468
     closedIssue: 1263
-    openIssue: 764
-    commit: 3913
+    openIssue: 765
+    commit: 3918
 total:
   release: 698
-  mergedPR: 15967
-  openPR: 467
+  mergedPR: 15972
+  openPR: 469
   closedIssue: 14169
-  openIssue: 2400
-  commit: 18057
+  openIssue: 2401
+  commit: 18062
 ---
 path: /home/runner/.x-repo/github.com/aws/aws-cdk
-collectedAt: 2026-09-07T04:36:29Z
+collectedAt: 2026-09-07T19:55:52Z
 loc:
   JavaScript:
     code: 12382328
@@ -103,10 +103,10 @@ loc:
     blanks: 74
     files: 15637
   TypeScript:
-    code: 866927
-    comments: 244401
-    blanks: 130841
-    files: 6370
+    code: 867305
+    comments: 244478
+    blanks: 130902
+    files: 6372
   Python:
     code: 45968
     comments: 5697
@@ -189,8 +189,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 95012
-    blanks: 31607
+    comments: 95024
+    blanks: 31609
     files: 487
   Text:
     code: 0
@@ -198,10 +198,10 @@ loc:
     blanks: 105
     files: 147
 total:
-  code: 16853335
-  comments: 701271
-  blanks: 225676
-  files: 25453
+  code: 16853713
+  comments: 701360
+  blanks: 225739
+  files: 25455
 ---
 date: "2026-08-24"
 repo:
@@ -409,7 +409,7 @@ checks:
       - 'Info: TypeScriptPropertyBasedTesting integration found: packages/aws-cdk-lib/core/test/private/linked-queue.test.ts:1'
 ---
 eget:
-  collectedAt: 2026-09-07T04:36:29+00:00
+  collectedAt: 2026-09-07T19:55:53+00:00
   platform:
     darwin/arm64:
       name:  null
