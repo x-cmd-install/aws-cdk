@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1420613755,
       "digest": "sha256:7900895e0cf0ba1aafa891a496c969d13d080363e9d292afe549688b05feb437",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-02T19:42:48Z",
       "updated_at": "2026-09-02T19:43:38Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-2.268.0.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:e0226f0372cb751c1f681a67cb8a790c4fa834f271d2e4038797598cb5d6f45d",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-02T19:43:38Z",
       "updated_at": "2026-09-02T19:43:38Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-2.268.0.zip.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 241997035,
       "digest": "sha256:6167ee74282c46e50a7a2b38fc29a53b475072482945566fedcd820d4fdf7304",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-02T19:43:39Z",
       "updated_at": "2026-09-02T19:43:46Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-dotnet-docs-2.268.0.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:c92351ca78ed0025d113e4f272e202affde10dcecc61893af0669d48ca44071b",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-02T19:43:46Z",
       "updated_at": "2026-09-02T19:43:46Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-dotnet-docs-2.268.0.zip.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 702332987,
       "digest": "sha256:07aa2845ff76b2af23d7c180015b30273d5a05f3f4a5a58f2edf35fded3080b6",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-02T19:43:47Z",
       "updated_at": "2026-09-02T19:44:05Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-java-docs-2.268.0.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:f3e2246dfc570d97631a2d9339deb23b480d74d4ac01d6f5efe185eb0d1ecdc2",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-02T19:44:06Z",
       "updated_at": "2026-09-02T19:44:06Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-java-docs-2.268.0.zip.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 368336215,
       "digest": "sha256:b5bc852967f56b12cb896351ea875e5734abac84fdb86b45efb4037401eeb177",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-02T19:44:07Z",
       "updated_at": "2026-09-02T19:44:18Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-python-docs-2.268.0.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:b6858d22ee4748f56c7181eb7e9c481e7940620f03bb5f6e3195a2e1d827f826",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-02T19:44:18Z",
       "updated_at": "2026-09-02T19:44:19Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-python-docs-2.268.0.zip.sig"
