@@ -5,7 +5,7 @@ about:
   head: 09342df
   archived: false
   latestVersion: "v2.268.0"
-  collectedAt: 2026-09-08T02:01:49Z
+  collectedAt: 2026-09-08T04:38:36Z
 timeline:
   created: 2017-10-04
   lastCommit: 2026-09-07
@@ -13,11 +13,11 @@ timeline:
 popularity:
   star: 12889
   watcher: 212
-  fork: 4627
+  fork: 4628
   release: 698
   contributor: 1715
   pullRequest: 20711
-  issue: 16571
+  issue: 16573
 language:
   TypeScript: 40750665
   JavaScript: 252865
@@ -38,59 +38,59 @@ recent:
     release: 5
     mergedPR: 91
     openPR: 93
-    closedIssue: 12
-    openIssue: 44
+    closedIssue: 13
+    openIssue: 45
     commit: 111
   last60d:
     since: 2026-07-10
     release: 9
     mergedPR: 167
     openPR: 144
-    closedIssue: 40
-    openIssue: 88
+    closedIssue: 41
+    openIssue: 89
     commit: 243
   last90d:
     since: 2026-06-10
     release: 12
     mergedPR: 222
     openPR: 174
-    closedIssue: 60
-    openIssue: 106
+    closedIssue: 61
+    openIssue: 107
     commit: 303
   last180d:
     since: 2026-03-12
     release: 30
     mergedPR: 569
     openPR: 303
-    closedIssue: 152
-    openIssue: 188
+    closedIssue: 153
+    openIssue: 189
     commit: 731
   last360d:
     since: 2025-09-13
     release: 67
     mergedPR: 1383
     openPR: 423
-    closedIssue: 376
-    openIssue: 353
+    closedIssue: 377
+    openIssue: 354
     commit: 1641
   last720d:
     since: 2024-09-18
     release: 100
     mergedPR: 3234
     openPR: 468
-    closedIssue: 1259
-    openIssue: 764
+    closedIssue: 1260
+    openIssue: 765
     commit: 3914
 total:
   release: 698
   mergedPR: 15973
   openPR: 469
-  closedIssue: 14170
-  openIssue: 2401
+  closedIssue: 14171
+  openIssue: 2402
   commit: 18063
 ---
 path: /home/runner/.x-repo/github.com/aws/aws-cdk
-collectedAt: 2026-09-08T02:06:23Z
+collectedAt: 2026-09-08T04:42:11Z
 loc:
   JavaScript:
     code: 12412367
