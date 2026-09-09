@@ -2,28 +2,28 @@ about:
   description: "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
   license: Apache-2.0
   homepage: https://aws.amazon.com/cdk
-  head: 73100f6
+  head: 855dfeb
   archived: false
   latestVersion: "v2.268.0"
   latestRelease: "v2.268.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:49:43Z
+  collectedAt: 2026-09-09T18:46:19Z
 timeline:
   created: 2017-10-04
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-02
   lastRelease: 2026-09-02
   lastPrerelease: 
 popularity:
-  star: 12890
+  star: 12891
   watcher: 212
-  fork: 4627
+  fork: 4628
   release: 698
-  contributor: 1716
-  pullRequest: 20712
-  issue: 16575
+  contributor: 1717
+  pullRequest: 20715
+  issue: 16576
 language:
-  TypeScript: 40790522
+  TypeScript: 40795938
   JavaScript: 252865
   Python: 218757
   Shell: 74166
@@ -35,82 +35,82 @@ language:
   HTML: 393
   Ruby: 135
   Batchfile: 127
-totalBytes: 41360158
+totalBytes: 41365574
 recent:
   last30d:
     since: 2026-08-10
     release: 5
     mergedPR: 91
-    openPR: 90
+    openPR: 92
     closedIssue: 15
-    openIssue: 39
-    commit: 116
+    openIssue: 40
+    commit: 118
   last60d:
     since: 2026-07-11
     release: 9
     mergedPR: 171
-    openPR: 140
+    openPR: 142
     closedIssue: 43
-    openIssue: 88
-    commit: 248
+    openIssue: 89
+    commit: 250
   last90d:
     since: 2026-06-11
     release: 12
     mergedPR: 224
-    openPR: 170
+    openPR: 172
     closedIssue: 63
-    openIssue: 107
-    commit: 308
+    openIssue: 108
+    commit: 310
   last180d:
     since: 2026-03-13
     release: 30
-    mergedPR: 573
-    openPR: 296
-    closedIssue: 156
+    mergedPR: 574
+    openPR: 297
+    closedIssue: 157
     openIssue: 187
-    commit: 736
+    commit: 738
   last360d:
     since: 2025-09-14
     release: 67
-    mergedPR: 1386
+    mergedPR: 1388
     openPR: 418
-    closedIssue: 379
+    closedIssue: 380
     openIssue: 353
-    commit: 1646
+    commit: 1648
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 3230
+    mergedPR: 3232
     openPR: 463
-    closedIssue: 1258
-    openIssue: 762
-    commit: 3910
+    closedIssue: 1260
+    openIssue: 761
+    commit: 3912
 total:
   release: 698
-  mergedPR: 15978
+  mergedPR: 15980
   openPR: 464
-  closedIssue: 14175
-  openIssue: 2400
-  commit: 18068
+  closedIssue: 14177
+  openIssue: 2399
+  commit: 18070
 ---
 path: /home/runner/.x-repo/github.com/aws/aws-cdk
-collectedAt: 2026-09-09T04:55:58Z
+collectedAt: 2026-09-09T18:55:19Z
 loc:
   JavaScript:
-    code: 12521012
-    comments: 253517
+    code: 12521178
+    comments: 253539
     blanks: 51560
-    files: 1848
+    files: 1850
   Json:
-    code: 3552631
+    code: 3554494
     comments: 0
     blanks: 74
-    files: 15657
+    files: 15667
   TypeScript:
-    code: 867946
-    comments: 244785
-    blanks: 131004
-    files: 6375
+    code: 868035
+    comments: 244810
+    blanks: 131016
+    files: 6376
   Python:
     code: 46693
     comments: 6020
@@ -202,10 +202,10 @@ loc:
     blanks: 105
     files: 147
 total:
-  code: 16997589
-  comments: 710010
-  blanks: 226622
-  files: 25484
+  code: 16999707
+  comments: 710057
+  blanks: 226634
+  files: 25497
 ---
 date: "2026-09-07"
 repo:
