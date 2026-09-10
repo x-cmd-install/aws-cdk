@@ -4,7 +4,7 @@
 
 The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 
-![aws-cdk](https://repo.x-cmd.io/aws-cdk.svg)
+![aws-cdk](https://repo.x-cmd.io/aws-cdk.svg?lang=zh)
 
 ## 安装
 
@@ -21,35 +21,47 @@ x install aws-cdk
 ## 发布
 
 - **最新版本**: `v2.268.0` (2026-09-02)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-09-02T19:42:48Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [aws-cdk-2.268.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-2.268.0.zip) | 1.3 GiB | `other` |
+| [aws-cdk-2.268.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-2.268.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-dotnet-docs-2.268.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-dotnet-docs-2.268.0.zip) | 230.8 MiB | `other` |
+| [aws-cdk-dotnet-docs-2.268.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-dotnet-docs-2.268.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-java-docs-2.268.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-java-docs-2.268.0.zip) | 669.8 MiB | `other` |
+| [aws-cdk-java-docs-2.268.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-java-docs-2.268.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-python-docs-2.268.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-python-docs-2.268.0.zip) | 351.3 MiB | `other` |
+| [aws-cdk-python-docs-2.268.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.268.0/aws-cdk-python-docs-2.268.0.zip.sig) | 566 B | `other` |
 
 ## 流行度
 
-- **Star**: 12,891 · **Fork**: 4,630 · **开放 issue**: 16,576 · **贡献者**: 1,717
+- **Star**: 12,893 · **Fork**: 4,630 · **开放 issue**: 16,576 · **贡献者**: 1,718
 
 ## 累计统计
 
-- **发布数**: 698 · **已合并 PR**: 15980 · **开放 PR**: 468 · **已关闭 issue**: 14177 · **开放 issue**: 2399 · **提交数**: 18070
+- **发布数**: 698 · **已合并 PR**: 15984 · **开放 PR**: 462 · **已关闭 issue**: 14180 · **开放 issue**: 2396 · **提交数**: 18074
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 82 | 89 | 15 | 39 | 118 |
-| 90d | 2026-06-12 | 12 | 217 | 176 | 63 | 108 | 310 |
-| 360d | 2025-09-15 | 67 | 1385 | 422 | 376 | 353 | 1648 |
+| 30d | 2026-08-11 | 4 | 86 | 85 | 17 | 37 | 122 |
+| 90d | 2026-06-12 | 12 | 221 | 172 | 65 | 106 | 314 |
+| 360d | 2025-09-15 | 67 | 1389 | 416 | 379 | 350 | 1652 |
 
 ## 代码规模
 
-合计: **16,996,063** 行代码（覆盖前 5 种语言、共 **24581** 个文件）。
+合计: **17,002,698** 行代码（覆盖前 5 种语言、共 **24620** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | JavaScript | 12,521,178 | 253,539 | 51,560 | 1850 |
-| Json | 3,554,494 | 0 | 74 | 15667 |
-| TypeScript | 868,035 | 244,810 | 131,016 | 6376 |
+| Json | 3,557,766 | 0 | 74 | 15686 |
+| TypeScript | 871,398 | 246,385 | 131,630 | 6396 |
 | Python | 46,693 | 6,020 | 11,133 | 581 |
 | Yaml | 2,146 | 29 | 137 | 107 |
 
@@ -72,4 +84,4 @@ aws-cdk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:40:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:28:43Z._
