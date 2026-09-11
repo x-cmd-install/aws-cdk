@@ -20,7 +20,7 @@ Total: **17,163,345** lines of code across **24880** files in the top 5 language
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 12,642,208 | 256,367 | 52,068 | 1866 |
 | Json | 3,584,090 | 0 | 74 | 15845 |
-| TypeScript | 884,675 | 250,357 | 133,739 | 6469 |
+| TypeScript | 884,675 | 250,361 | 133,739 | 6469 |
 | Python | 46,709 | 6,020 | 11,135 | 593 |
 | Yaml | 2,146 | 29 | 137 | 107 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.269.0` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 12,894 · **Forks**: 4,630 · **Open issues**: 16,576 · **Contributors**: 1,718
+- **Stars**: 12,897 · **Forks**: 4,630 · **Open issues**: 16,576 · **Contributors**: 1,719
 
 ## Totals (cumulative)
 
-- **Releases**: 699 · **Merged PRs**: 15987 · **Open PRs**: 460 · **Closed issues**: 14181 · **Open issues**: 2395 · **Commits**: 18080
+- **Releases**: 699 · **Merged PRs**: 15989 · **Open PRs**: 463 · **Closed issues**: 14181 · **Open issues**: 2395 · **Commits**: 18082
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 5 | 89 | 77 | 18 | 34 | 127 |
-| last60d | 2026-07-13 | 10 | 174 | 137 | 42 | 84 | 259 |
-| 90d | 2026-06-13 | 12 | 223 | 167 | 65 | 104 | 319 |
-| last180d | 2026-03-15 | 31 | 578 | 293 | 159 | 184 | 747 |
-| 360d | 2025-09-16 | 67 | 1386 | 414 | 378 | 349 | 1657 |
-| last720d | 2024-09-21 | 100 | 3235 | 459 | 1263 | 754 | 3907 |
+| 30d | 2026-08-12 | 5 | 90 | 82 | 18 | 35 | 129 |
+| last60d | 2026-07-13 | 10 | 175 | 142 | 42 | 85 | 261 |
+| 90d | 2026-06-13 | 12 | 224 | 172 | 65 | 105 | 321 |
+| last180d | 2026-03-15 | 31 | 579 | 298 | 159 | 185 | 749 |
+| 360d | 2025-09-16 | 67 | 1388 | 417 | 378 | 350 | 1659 |
+| last720d | 2024-09-21 | 100 | 3237 | 462 | 1263 | 755 | 3909 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:41:39Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:21:08Z._
