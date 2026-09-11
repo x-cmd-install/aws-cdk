@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,895 · **Forks**: 4,630 · **Open issues**: 16,576 · **Contributors**: 1,718
+- **Stars**: 12,894 · **Forks**: 4,630 · **Open issues**: 16,576 · **Contributors**: 1,718
 
 ## Totals (cumulative)
 
@@ -95,4 +95,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:05:29Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:41:39Z._
