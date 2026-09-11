@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 242750068,
       "digest": "sha256:cb7c5c02daf93154f50c7bad4cd2aec41940657b8c3f1dcd89b47174621d5df0",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-10T21:10:20Z",
       "updated_at": "2026-09-10T21:10:27Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.269.0/aws-cdk-dotnet-docs-2.269.0.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 371174052,
       "digest": "sha256:5e4b412d8276a9a2c3dae0b044f6a97e5be832114c72276316c673226fd7187b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-10T21:10:52Z",
       "updated_at": "2026-09-10T21:11:04Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.269.0/aws-cdk-python-docs-2.269.0.zip"

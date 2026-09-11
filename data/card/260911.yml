@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.269.0"
   latestRelease: "v2.269.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:00:44Z
+  collectedAt: 2026-09-11T04:38:07Z
 timeline:
   created: 2017-10-04
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 12895
+  star: 12894
   watcher: 211
   fork: 4630
   release: 699
@@ -94,7 +94,7 @@ total:
   commit: 18080
 ---
 path: /home/runner/.x-repo/github.com/aws/aws-cdk
-collectedAt: 2026-09-11T00:05:23Z
+collectedAt: 2026-09-11T04:41:35Z
 loc:
   JavaScript:
     code: 12642208
