@@ -1,0 +1,29 @@
+- repo: aur
+  srcname: aws-cdk
+  binname: aws-cdk
+  visiblename: aws-cdk
+  version: 2.1129.0
+  origversion: 2.1129.0-1
+  status: outdated
+  summary: CDK Toolkit, the command line tool for CDK apps
+  maintainers:
+    - christoph.gysin@aur
+  licenses:
+    - Apache
+- repo: homebrew
+  srcname: aws-cdk
+  visiblename: aws-cdk
+  version: 2.1141.0
+  origversion: null
+  status: newest
+  summary: AWS Cloud Development Kit - framework for defining AWS infra as code
+- repo: slackbuilds
+  srcname: development/aws-cdk
+  visiblename: development/aws-cdk
+  version: 2.1139.0
+  origversion: null
+  status: outdated
+  maintainers:
+    - willysr@slackbuilds.org
+  categories:
+    - development
