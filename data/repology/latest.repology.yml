@@ -20,9 +20,9 @@
 - repo: slackbuilds
   srcname: development/aws-cdk
   visiblename: development/aws-cdk
-  version: 2.1139.0
+  version: 2.1141.0
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - willysr@slackbuilds.org
   categories:
