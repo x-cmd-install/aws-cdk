@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,897 · **Forks**: 4,630 · **Open issues**: 16,576 · **Contributors**: 1,719
+- **Stars**: 12,898 · **Forks**: 4,630 · **Open issues**: 16,576 · **Contributors**: 1,719
 
 ## Totals (cumulative)
 
-- **Releases**: 699 · **Merged PRs**: 15989 · **Open PRs**: 463 · **Closed issues**: 14181 · **Open issues**: 2395 · **Commits**: 18082
+- **Releases**: 699 · **Merged PRs**: 15989 · **Open PRs**: 460 · **Closed issues**: 14181 · **Open issues**: 2395 · **Commits**: 18082
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 5 | 90 | 82 | 18 | 35 | 129 |
-| last60d | 2026-07-13 | 10 | 175 | 142 | 42 | 85 | 261 |
-| 90d | 2026-06-13 | 12 | 224 | 172 | 65 | 105 | 321 |
-| last180d | 2026-03-15 | 31 | 579 | 298 | 159 | 185 | 749 |
-| 360d | 2025-09-16 | 67 | 1388 | 417 | 378 | 350 | 1659 |
-| last720d | 2024-09-21 | 100 | 3237 | 462 | 1263 | 755 | 3909 |
+| 30d | 2026-08-13 | 5 | 83 | 81 | 18 | 34 | 129 |
+| last60d | 2026-07-14 | 10 | 171 | 141 | 42 | 84 | 261 |
+| 90d | 2026-06-14 | 12 | 224 | 169 | 65 | 105 | 321 |
+| last180d | 2026-03-16 | 31 | 575 | 295 | 157 | 184 | 749 |
+| 360d | 2025-09-17 | 67 | 1387 | 414 | 375 | 349 | 1659 |
+| last720d | 2024-09-22 | 100 | 3237 | 459 | 1262 | 754 | 3909 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/aws-cdk). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/aws-cdk). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:21:08Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:40:16Z._
