@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,900 · **Forks**: 4,631 · **Open issues**: 16,577 · **Contributors**: 1,719
+- **Stars**: 12,900 · **Forks**: 4,629 · **Open issues**: 16,578 · **Contributors**: 1,719
 
 ## Totals (cumulative)
 
-- **Releases**: 699 · **Merged PRs**: 15989 · **Open PRs**: 461 · **Closed issues**: 14181 · **Open issues**: 2396 · **Commits**: 18082
+- **Releases**: 699 · **Merged PRs**: 15989 · **Open PRs**: 462 · **Closed issues**: 14181 · **Open issues**: 2397 · **Commits**: 18082
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 81 | 80 | 18 | 34 | 104 |
-| last60d | 2026-07-15 | 10 | 168 | 139 | 42 | 83 | 243 |
-| 90d | 2026-06-15 | 12 | 222 | 170 | 65 | 103 | 306 |
-| last180d | 2026-03-17 | 31 | 568 | 295 | 156 | 184 | 714 |
-| 360d | 2025-09-18 | 67 | 1381 | 415 | 374 | 349 | 1638 |
-| last720d | 2024-09-23 | 100 | 3232 | 460 | 1259 | 751 | 3909 |
+| 30d | 2026-08-15 | 4 | 81 | 81 | 18 | 35 | 104 |
+| last60d | 2026-07-16 | 10 | 165 | 138 | 42 | 82 | 243 |
+| 90d | 2026-06-16 | 12 | 217 | 168 | 65 | 103 | 306 |
+| last180d | 2026-03-18 | 31 | 563 | 295 | 156 | 185 | 714 |
+| 360d | 2025-09-19 | 67 | 1380 | 416 | 371 | 350 | 1638 |
+| last720d | 2024-09-24 | 100 | 3227 | 461 | 1257 | 751 | 3903 |
 
 ## Release assets
 
@@ -78,14 +78,6 @@ Lowest-scoring checks:
 | [aws-cdk-python-docs-2.269.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.269.0/aws-cdk-python-docs-2.269.0.zip) | 354.0 MiB | `other` |
 | [aws-cdk-python-docs-2.269.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.269.0/aws-cdk-python-docs-2.269.0.zip.sig) | 566 B | `other` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/aws-cdk). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.1141.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aws-cdk` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +87,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:54:04Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:58:19Z._

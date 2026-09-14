@@ -48,22 +48,22 @@ x install aws-cdk
 
 ## 流行度
 
-- **Star**: 12,900 · **Fork**: 4,631 · **开放 issue**: 16,577 · **贡献者**: 1,719
+- **Star**: 12,900 · **Fork**: 4,629 · **开放 issue**: 16,578 · **贡献者**: 1,719
 
 ## 累计统计
 
-- **发布数**: 699 · **已合并 PR**: 15989 · **开放 PR**: 461 · **已关闭 issue**: 14181 · **开放 issue**: 2396 · **提交数**: 18082
+- **发布数**: 699 · **已合并 PR**: 15989 · **开放 PR**: 462 · **已关闭 issue**: 14181 · **开放 issue**: 2397 · **提交数**: 18082
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 81 | 80 | 18 | 34 | 104 |
-| last60d | 2026-07-15 | 10 | 168 | 139 | 42 | 83 | 243 |
-| 90d | 2026-06-15 | 12 | 222 | 170 | 65 | 103 | 306 |
-| last180d | 2026-03-17 | 31 | 568 | 295 | 156 | 184 | 714 |
-| 360d | 2025-09-18 | 67 | 1381 | 415 | 374 | 349 | 1638 |
-| last720d | 2024-09-23 | 100 | 3232 | 460 | 1259 | 751 | 3909 |
+| 30d | 2026-08-15 | 4 | 81 | 81 | 18 | 35 | 104 |
+| last60d | 2026-07-16 | 10 | 165 | 138 | 42 | 82 | 243 |
+| 90d | 2026-06-16 | 12 | 217 | 168 | 65 | 103 | 306 |
+| last180d | 2026-03-18 | 31 | 563 | 295 | 156 | 185 | 714 |
+| 360d | 2025-09-19 | 67 | 1380 | 416 | 371 | 350 | 1638 |
+| last720d | 2024-09-24 | 100 | 3227 | 461 | 1257 | 751 | 3903 |
 
 ## Release 资产
 
@@ -78,14 +78,6 @@ x install aws-cdk
 | [aws-cdk-python-docs-2.269.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.269.0/aws-cdk-python-docs-2.269.0.zip) | 354.0 MiB | `other` |
 | [aws-cdk-python-docs-2.269.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.269.0/aws-cdk-python-docs-2.269.0.zip.sig) | 566 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/aws-cdk) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.1141.0` | ✅ latest |
-
 ## 改进这些数据
 
 aws-cdk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `aws-cdk` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +87,4 @@ aws-cdk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:54:05Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T04:58:20Z._
