@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1428732590,
       "digest": "sha256:e33fe14383b63697b2d43f0b34cc76ea00a8561814f77cfe6f877bc512cf4330",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T21:09:28Z",
       "updated_at": "2026-09-10T21:10:19Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.269.0/aws-cdk-2.269.0.zip"
