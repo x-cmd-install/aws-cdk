@@ -4,7 +4,7 @@
 
 The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 
-![aws-cdk](https://repo.x-cmd.io/aws-cdk.svg)
+[![x-cmd/install — aws-cdk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aws-cdk.svg)](https://x-cmd.com/install/aws-cdk)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install aws-cdk
 
 ## Code insight
 
-Total: **17,201,042** lines of code across **24927** files in the top 5 languages.
+Total: **17,314,760** lines of code across **24942** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 12,672,246 | 257,027 | 52,195 | 1867 |
-| Json | 3,590,656 | 0 | 74 | 15885 |
-| TypeScript | 885,647 | 250,586 | 133,882 | 6475 |
-| Python | 46,709 | 6,020 | 11,135 | 593 |
+| JavaScript | 12,780,914 | 264,127 | 52,655 | 1870 |
+| Json | 3,593,546 | 0 | 74 | 15895 |
+| TypeScript | 887,516 | 250,736 | 134,017 | 6476 |
+| Python | 47,000 | 6,068 | 11,206 | 594 |
 | Yaml | 2,146 | 29 | 137 | 107 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,40 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.270.0` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
+- **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 12,902 · **Forks**: 4,631 · **Open issues**: 16,585 · **Contributors**: 1,720
+- **Stars**: 12,905 · **Forks**: 4,633 · **Open issues**: 16,590 · **Contributors**: 1,721
 
 ## Totals (cumulative)
 
-- **Releases**: 700 · **Merged PRs**: 15997 · **Open PRs**: 462 · **Closed issues**: 14187 · **Open issues**: 2398 · **Commits**: 18103
+- **Releases**: 700 · **Merged PRs**: 16006 · **Open PRs**: 465 · **Closed issues**: 14193 · **Open issues**: 2397 · **Commits**: 18116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 65 | 78 | 18 | 36 | 119 |
-| last60d | 2026-07-20 | 11 | 165 | 133 | 43 | 81 | 266 |
-| 90d | 2026-06-20 | 12 | 216 | 168 | 63 | 104 | 329 |
-| last180d | 2026-03-22 | 31 | 559 | 295 | 161 | 185 | 737 |
-| 360d | 2025-09-23 | 67 | 1376 | 415 | 372 | 349 | 1661 |
-| last720d | 2024-09-28 | 100 | 3217 | 461 | 1255 | 745 | 3896 |
+| 30d | 2026-08-21 | 4 | 71 | 73 | 18 | 36 | 88 |
+| last60d | 2026-07-22 | 11 | 167 | 129 | 40 | 81 | 252 |
+| 90d | 2026-06-22 | 12 | 223 | 171 | 66 | 105 | 334 |
+| last180d | 2026-03-24 | 31 | 561 | 296 | 164 | 186 | 717 |
+| 360d | 2025-09-25 | 67 | 1377 | 418 | 375 | 348 | 1630 |
+| last720d | 2024-09-30 | 100 | 3223 | 464 | 1254 | 745 | 3909 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [aws-cdk-2.270.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.270.0/aws-cdk-2.270.0.zip) | 1.3 GiB | `other` |
+| [aws-cdk-2.270.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.270.0/aws-cdk-2.270.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-dotnet-docs-2.270.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.270.0/aws-cdk-dotnet-docs-2.270.0.zip) | 232.2 MiB | `other` |
+| [aws-cdk-dotnet-docs-2.270.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.270.0/aws-cdk-dotnet-docs-2.270.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-java-docs-2.270.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.270.0/aws-cdk-java-docs-2.270.0.zip) | 673.9 MiB | `other` |
+| [aws-cdk-java-docs-2.270.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.270.0/aws-cdk-java-docs-2.270.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-python-docs-2.270.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.270.0/aws-cdk-python-docs-2.270.0.zip) | 356.4 MiB | `other` |
+| [aws-cdk-python-docs-2.270.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.270.0/aws-cdk-python-docs-2.270.0.zip.sig) | 566 B | `other` |
 
 ## Improve this data
 
@@ -73,4 +87,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:48:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:58:09Z._
