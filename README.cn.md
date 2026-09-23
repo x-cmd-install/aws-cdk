@@ -4,7 +4,7 @@
 
 The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 
-[![x-cmd/install — aws-cdk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aws-cdk.svg?lang=zh)](https://x-cmd.com/install/aws-cdk)
+[![x-cmd/install — aws-cdk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/aws-cdk.svg?lang=zh)](https://x-cmd.com/install/aws-cdk)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install aws-cdk
 
 ## 流行度
 
-- **Star**: 12,907 · **Fork**: 4,640 · **开放 issue**: 16,593 · **贡献者**: 1,722
+- **Star**: 12,910 · **Fork**: 4,640 · **开放 issue**: 16,594 · **贡献者**: 1,722
 
 ## 累计统计
 
-- **发布数**: 700 · **已合并 PR**: 16009 · **开放 PR**: 475 · **已关闭 issue**: 14195 · **开放 issue**: 2398 · **提交数**: 18119
+- **发布数**: 700 · **已合并 PR**: 16009 · **开放 PR**: 477 · **已关闭 issue**: 14195 · **开放 issue**: 2399 · **提交数**: 18119
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 73 | 80 | 18 | 38 | 91 |
-| last60d | 2026-07-24 | 10 | 162 | 137 | 40 | 79 | 255 |
-| 90d | 2026-06-24 | 12 | 224 | 181 | 65 | 106 | 337 |
-| last180d | 2026-03-26 | 31 | 547 | 307 | 166 | 186 | 720 |
-| 360d | 2025-09-27 | 66 | 1376 | 427 | 375 | 346 | 1633 |
-| last720d | 2024-10-02 | 100 | 3215 | 474 | 1245 | 742 | 3905 |
+| 30d | 2026-08-24 | 4 | 67 | 77 | 17 | 38 | 91 |
+| last60d | 2026-07-25 | 9 | 162 | 138 | 39 | 80 | 255 |
+| 90d | 2026-06-25 | 12 | 221 | 182 | 65 | 105 | 337 |
+| last180d | 2026-03-27 | 31 | 538 | 307 | 166 | 187 | 720 |
+| 360d | 2025-09-28 | 66 | 1376 | 429 | 375 | 346 | 1633 |
+| last720d | 2024-10-03 | 100 | 3207 | 476 | 1239 | 742 | 3901 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ aws-cdk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:04:27Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:54:08Z._

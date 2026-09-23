@@ -4,7 +4,7 @@
 
 The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 
-[![x-cmd/install — aws-cdk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aws-cdk.svg)](https://x-cmd.com/install/aws-cdk)
+[![x-cmd/install — aws-cdk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/aws-cdk.svg)](https://x-cmd.com/install/aws-cdk)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,907 · **Forks**: 4,640 · **Open issues**: 16,593 · **Contributors**: 1,722
+- **Stars**: 12,910 · **Forks**: 4,640 · **Open issues**: 16,594 · **Contributors**: 1,722
 
 ## Totals (cumulative)
 
-- **Releases**: 700 · **Merged PRs**: 16009 · **Open PRs**: 475 · **Closed issues**: 14195 · **Open issues**: 2398 · **Commits**: 18119
+- **Releases**: 700 · **Merged PRs**: 16009 · **Open PRs**: 477 · **Closed issues**: 14195 · **Open issues**: 2399 · **Commits**: 18119
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 73 | 80 | 18 | 38 | 91 |
-| last60d | 2026-07-24 | 10 | 162 | 137 | 40 | 79 | 255 |
-| 90d | 2026-06-24 | 12 | 224 | 181 | 65 | 106 | 337 |
-| last180d | 2026-03-26 | 31 | 547 | 307 | 166 | 186 | 720 |
-| 360d | 2025-09-27 | 66 | 1376 | 427 | 375 | 346 | 1633 |
-| last720d | 2024-10-02 | 100 | 3215 | 474 | 1245 | 742 | 3905 |
+| 30d | 2026-08-24 | 4 | 67 | 77 | 17 | 38 | 91 |
+| last60d | 2026-07-25 | 9 | 162 | 138 | 39 | 80 | 255 |
+| 90d | 2026-06-25 | 12 | 221 | 182 | 65 | 105 | 337 |
+| last180d | 2026-03-27 | 31 | 538 | 307 | 166 | 187 | 720 |
+| 360d | 2025-09-28 | 66 | 1376 | 429 | 375 | 346 | 1633 |
+| last720d | 2024-10-03 | 100 | 3207 | 476 | 1239 | 742 | 3901 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:04:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:54:07Z._
