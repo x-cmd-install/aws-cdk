@@ -14,13 +14,13 @@ x install aws-cdk
 
 ## Code insight
 
-Total: **17,579,028** lines of code across **25006** files in the top 5 languages.
+Total: **17,579,170** lines of code across **25006** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 13,038,338 | 284,298 | 53,802 | 1875 |
-| Json | 3,598,532 | 0 | 75 | 15939 |
-| TypeScript | 889,374 | 251,140 | 134,240 | 6491 |
+| Json | 3,598,540 | 0 | 75 | 15939 |
+| TypeScript | 889,508 | 251,298 | 134,336 | 6491 |
 | Python | 47,000 | 6,068 | 11,206 | 594 |
 | Yaml | 2,146 | 29 | 137 | 107 |
 
@@ -42,41 +42,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.271.0` (2026-09-25)
-- **Last commit**: 2026-09-29
+- **Latest**: `v2.272.0` (2026-09-30)
+- **Last commit**: 2026-10-01
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 12,916 · **Forks**: 4,645 · **Open issues**: 16,604 · **Contributors**: 1,726
+- **Stars**: 12,920 · **Forks**: 4,646 · **Open issues**: 16,608 · **Contributors**: 1,726
 
 ## Totals (cumulative)
 
-- **Releases**: 701 · **Merged PRs**: 16033 · **Open PRs**: 472 · **Closed issues**: 14214 · **Open issues**: 2390 · **Commits**: 18147
+- **Releases**: 702 · **Merged PRs**: 16037 · **Open PRs**: 474 · **Closed issues**: 14214 · **Open issues**: 2394 · **Commits**: 18155
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 4 | 59 | 69 | 22 | 33 | 86 |
-| last60d | 2026-08-01 | 8 | 157 | 134 | 41 | 64 | 243 |
-| 90d | 2026-07-02 | 13 | 232 | 174 | 76 | 97 | 346 |
-| last180d | 2026-04-03 | 29 | 525 | 287 | 172 | 174 | 707 |
-| 360d | 2025-10-05 | 64 | 1371 | 423 | 384 | 330 | 1639 |
-| last720d | 2024-10-10 | 100 | 3198 | 471 | 1232 | 727 | 3880 |
+| 30d | 2026-09-01 | 5 | 52 | 65 | 21 | 34 | 93 |
+| last60d | 2026-08-02 | 9 | 160 | 132 | 41 | 65 | 250 |
+| 90d | 2026-07-03 | 13 | 233 | 175 | 75 | 99 | 353 |
+| last180d | 2026-04-04 | 29 | 528 | 286 | 171 | 178 | 714 |
+| 360d | 2025-10-06 | 65 | 1371 | 425 | 383 | 333 | 1646 |
+| last720d | 2024-10-11 | 100 | 3197 | 473 | 1229 | 728 | 3877 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [aws-cdk-2.271.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.271.0/aws-cdk-2.271.0.zip) | 1.3 GiB | `other` |
-| [aws-cdk-2.271.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.271.0/aws-cdk-2.271.0.zip.sig) | 566 B | `other` |
-| [aws-cdk-dotnet-docs-2.271.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.271.0/aws-cdk-dotnet-docs-2.271.0.zip) | 232.2 MiB | `other` |
-| [aws-cdk-dotnet-docs-2.271.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.271.0/aws-cdk-dotnet-docs-2.271.0.zip.sig) | 566 B | `other` |
-| [aws-cdk-java-docs-2.271.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.271.0/aws-cdk-java-docs-2.271.0.zip) | 673.9 MiB | `other` |
-| [aws-cdk-java-docs-2.271.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.271.0/aws-cdk-java-docs-2.271.0.zip.sig) | 566 B | `other` |
-| [aws-cdk-python-docs-2.271.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.271.0/aws-cdk-python-docs-2.271.0.zip) | 356.5 MiB | `other` |
-| [aws-cdk-python-docs-2.271.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.271.0/aws-cdk-python-docs-2.271.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-2.272.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.272.0/aws-cdk-2.272.0.zip) | 1.4 GiB | `other` |
+| [aws-cdk-2.272.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.272.0/aws-cdk-2.272.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-dotnet-docs-2.272.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.272.0/aws-cdk-dotnet-docs-2.272.0.zip) | 238.1 MiB | `other` |
+| [aws-cdk-dotnet-docs-2.272.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.272.0/aws-cdk-dotnet-docs-2.272.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-java-docs-2.272.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.272.0/aws-cdk-java-docs-2.272.0.zip) | 691.2 MiB | `other` |
+| [aws-cdk-java-docs-2.272.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.272.0/aws-cdk-java-docs-2.272.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-python-docs-2.272.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.272.0/aws-cdk-python-docs-2.272.0.zip) | 365.4 MiB | `other` |
+| [aws-cdk-python-docs-2.272.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.272.0/aws-cdk-python-docs-2.272.0.zip.sig) | 566 B | `other` |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:32:46Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:51:21Z._
