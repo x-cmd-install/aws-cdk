@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1470318834,
       "digest": "sha256:708c891e6c196a0dd888250447d2c7ee4c3827ebc31f6830f15f5c8bd323923f",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-08T20:09:55Z",
       "updated_at": "2026-10-08T20:10:36Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.273.0/aws-cdk-2.273.0.zip"
