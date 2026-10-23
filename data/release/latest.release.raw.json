@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1480237805,
       "digest": "sha256:c4e9385fe97704fc7d3271dfe63adf3b38f09f86604cfb6de320f1a4ab3b4a81",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-20T13:48:26Z",
       "updated_at": "2026-10-20T13:49:06Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.274.0/aws-cdk-2.274.0.zip"
