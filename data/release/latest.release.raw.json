@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:2b95e6b05982cb22bd9ef0dc70b102fd46f2c51ff1645333fd91c26b409f2f99",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-20T13:49:41Z",
       "updated_at": "2026-10-20T13:49:41Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.274.0/aws-cdk-java-docs-2.274.0.zip.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 390394636,
       "digest": "sha256:b471a66018c192943eb44e49d4320ccf28865c9da9e03f258bc30c8a2a75a39d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-20T13:49:42Z",
       "updated_at": "2026-10-20T13:49:54Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.274.0/aws-cdk-python-docs-2.274.0.zip"
