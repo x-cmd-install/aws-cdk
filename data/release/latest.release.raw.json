@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 252676668,
       "digest": "sha256:5479bc3fae822e4836d5ae22c9e8074c27a485050ef27bc5e0f4c53a41d54c6d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-20T13:49:07Z",
       "updated_at": "2026-10-20T13:49:16Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.274.0/aws-cdk-dotnet-docs-2.274.0.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 390394636,
       "digest": "sha256:b471a66018c192943eb44e49d4320ccf28865c9da9e03f258bc30c8a2a75a39d",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-20T13:49:42Z",
       "updated_at": "2026-10-20T13:49:54Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.274.0/aws-cdk-python-docs-2.274.0.zip"
