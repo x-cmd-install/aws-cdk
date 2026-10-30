@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,957 · **Forks**: 4,659 · **Open issues**: 16,673 · **Contributors**: 1,744
+- **Stars**: 12,957 · **Forks**: 4,665 · **Open issues**: 16,676 · **Contributors**: 1,744
 
 ## Totals (cumulative)
 
-- **Releases**: 705 · **Merged PRs**: 16137 · **Open PRs**: 508 · **Closed issues**: 14252 · **Open issues**: 2421 · **Commits**: 18262
+- **Releases**: 705 · **Merged PRs**: 16137 · **Open PRs**: 518 · **Closed issues**: 14252 · **Open issues**: 2424 · **Commits**: 18262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 4 | 70 | 113 | 9 | 60 | 100 |
-| last60d | 2026-08-30 | 8 | 147 | 165 | 40 | 87 | 211 |
-| 90d | 2026-07-31 | 13 | 251 | 214 | 61 | 115 | 360 |
-| last180d | 2026-05-02 | 28 | 523 | 334 | 165 | 195 | 706 |
-| 360d | 2025-11-03 | 65 | 1356 | 460 | 371 | 340 | 1625 |
-| last720d | 2024-11-08 | 100 | 3145 | 506 | 1167 | 734 | 3783 |
+| 30d | 2026-09-30 | 4 | 66 | 123 | 8 | 60 | 100 |
+| last60d | 2026-08-31 | 8 | 143 | 175 | 38 | 90 | 211 |
+| 90d | 2026-08-01 | 12 | 250 | 225 | 61 | 117 | 360 |
+| last180d | 2026-05-03 | 28 | 522 | 345 | 164 | 198 | 706 |
+| 360d | 2025-11-04 | 65 | 1351 | 469 | 369 | 342 | 1625 |
+| last720d | 2024-11-09 | 100 | 3143 | 516 | 1166 | 737 | 3778 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:43:34Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:45:39Z._
