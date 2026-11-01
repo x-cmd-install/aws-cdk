@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.275.0` (2026-10-26)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-01
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 12,957 · **Forks**: 4,665 · **Open issues**: 16,675 · **Contributors**: 1,744
+- **Stars**: 12,958 · **Forks**: 4,668 · **Open issues**: 16,675 · **Contributors**: 1,744
 
 ## Totals (cumulative)
 
-- **Releases**: 705 · **Merged PRs**: 16140 · **Open PRs**: 517 · **Closed issues**: 14254 · **Open issues**: 2421 · **Commits**: 18265
+- **Releases**: 705 · **Merged PRs**: 16141 · **Open PRs**: 520 · **Closed issues**: 14254 · **Open issues**: 2421 · **Commits**: 18266
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 67 | 119 | 8 | 59 | 103 |
-| last60d | 2026-09-01 | 8 | 134 | 169 | 38 | 86 | 214 |
-| 90d | 2026-08-02 | 12 | 251 | 221 | 62 | 113 | 363 |
-| last180d | 2026-05-04 | 28 | 520 | 344 | 163 | 197 | 709 |
-| 360d | 2025-11-05 | 64 | 1344 | 467 | 368 | 338 | 1628 |
-| last720d | 2024-11-10 | 100 | 3145 | 515 | 1166 | 735 | 3781 |
+| 30d | 2026-10-02 | 3 | 67 | 117 | 7 | 56 | 80 |
+| last60d | 2026-09-02 | 8 | 131 | 172 | 34 | 86 | 186 |
+| 90d | 2026-08-03 | 12 | 244 | 223 | 60 | 112 | 339 |
+| last180d | 2026-05-05 | 28 | 519 | 346 | 162 | 195 | 662 |
+| 360d | 2025-11-06 | 64 | 1344 | 469 | 367 | 337 | 1595 |
+| last720d | 2024-11-11 | 100 | 3141 | 518 | 1164 | 731 | 3782 |
 
 ## Release assets
 
@@ -80,11 +80,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/aws-cdk). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/aws-cdk). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.1146.1` | ✅ latest |
+| Homebrew | `2.1147.0` | ✅ latest |
 
 ## Improve this data
 
@@ -95,4 +95,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:34:16Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:01:32Z._
