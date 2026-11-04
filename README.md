@@ -14,14 +14,14 @@ x install aws-cdk
 
 ## Code insight
 
-Total: **23,670,548** lines of code across **25222** files in the top 5 languages.
+Total: **24,355,473** lines of code across **25342** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 19,158,401 | 762,533 | 78,540 | 1801 |
-| Json | 3,579,472 | 0 | 75 | 16290 |
-| TypeScript | 883,318 | 248,849 | 133,430 | 6483 |
-| Python | 43,523 | 5,668 | 10,385 | 541 |
+| JavaScript | 19,822,098 | 804,343 | 81,242 | 1826 |
+| Json | 3,595,294 | 0 | 75 | 16361 |
+| TypeScript | 888,098 | 251,413 | 134,262 | 6505 |
+| Python | 44,149 | 5,802 | 10,531 | 543 |
 | Yaml | 2,146 | 29 | 137 | 107 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.275.0` (2026-10-26)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 12,957 · **Forks**: 4,666 · **Open issues**: 16,678 · **Contributors**: 1,746
+- **Stars**: 12,961 · **Forks**: 4,666 · **Open issues**: 16,678 · **Contributors**: 1,748
 
 ## Totals (cumulative)
 
-- **Releases**: 705 · **Merged PRs**: 16149 · **Open PRs**: 517 · **Closed issues**: 14258 · **Open issues**: 2420 · **Commits**: 18274
+- **Releases**: 705 · **Merged PRs**: 16157 · **Open PRs**: 513 · **Closed issues**: 14260 · **Open issues**: 2418 · **Commits**: 18282
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 74 | 111 | 10 | 55 | 88 |
-| last60d | 2026-09-04 | 7 | 128 | 169 | 30 | 83 | 194 |
-| 90d | 2026-08-05 | 12 | 249 | 221 | 59 | 111 | 347 |
-| last180d | 2026-05-07 | 27 | 514 | 344 | 160 | 190 | 670 |
-| 360d | 2025-11-08 | 64 | 1344 | 465 | 367 | 337 | 1603 |
-| last720d | 2024-11-13 | 100 | 3133 | 515 | 1164 | 729 | 3784 |
+| 30d | 2026-10-05 | 3 | 78 | 106 | 10 | 54 | 96 |
+| last60d | 2026-09-05 | 7 | 136 | 166 | 32 | 82 | 202 |
+| 90d | 2026-08-06 | 12 | 254 | 218 | 61 | 107 | 355 |
+| last180d | 2026-05-08 | 27 | 511 | 340 | 162 | 189 | 678 |
+| 360d | 2025-11-09 | 64 | 1351 | 461 | 369 | 336 | 1611 |
+| last720d | 2024-11-14 | 100 | 3128 | 511 | 1159 | 723 | 3786 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:54:56Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:13:04Z._
