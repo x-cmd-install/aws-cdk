@@ -13,16 +13,16 @@
 - repo: homebrew
   srcname: aws-cdk
   visiblename: aws-cdk
-  version: 2.1147.0
+  version: 2.1148.0
   origversion: null
   status: newest
   summary: AWS Cloud Development Kit - framework for defining AWS infra as code
 - repo: slackbuilds
   srcname: development/aws-cdk
   visiblename: development/aws-cdk
-  version: 2.1146.1
+  version: 2.1148.0
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - willysr@slackbuilds.org
   categories:
