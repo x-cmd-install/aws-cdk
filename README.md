@@ -14,13 +14,13 @@ x install aws-cdk
 
 ## Code insight
 
-Total: **25,631,871** lines of code across **25463** files in the top 5 languages.
+Total: **26,902,432** lines of code across **25546** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 21,089,240 | 887,594 | 85,392 | 1829 |
-| Json | 3,603,414 | 0 | 75 | 16461 |
-| TypeScript | 889,870 | 252,096 | 134,584 | 6522 |
+| JavaScript | 22,365,612 | 966,753 | 89,615 | 1834 |
+| Json | 3,596,367 | 0 | 75 | 16533 |
+| TypeScript | 891,106 | 252,441 | 134,788 | 6528 |
 | Python | 43,513 | 5,785 | 10,492 | 544 |
 | Yaml | 2,146 | 29 | 137 | 107 |
 
@@ -42,41 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.275.0` (2026-10-26)
-- **Last commit**: 2026-11-09
-- **Assets in release**: 8
+- **Latest**: `v2.276.0` (2026-11-10)
+- **Last commit**: 2026-11-10
+- **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 12,972 · **Forks**: 4,671 · **Open issues**: 16,693 · **Contributors**: 1,752
+- **Stars**: 12,972 · **Forks**: 4,673 · **Open issues**: 16,693 · **Contributors**: 1,753
 
 ## Totals (cumulative)
 
-- **Releases**: 705 · **Merged PRs**: 16185 · **Open PRs**: 516 · **Closed issues**: 14268 · **Open issues**: 2425 · **Commits**: 18309
+- **Releases**: 706 · **Merged PRs**: 16194 · **Open PRs**: 476 · **Closed issues**: 14270 · **Open issues**: 2423 · **Commits**: 18321
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 91 | 106 | 13 | 46 | 104 |
-| last60d | 2026-09-11 | 6 | 144 | 164 | 31 | 89 | 207 |
-| 90d | 2026-08-12 | 11 | 255 | 211 | 64 | 109 | 340 |
-| last180d | 2026-05-14 | 25 | 504 | 340 | 157 | 192 | 662 |
-| 360d | 2025-11-15 | 62 | 1335 | 459 | 363 | 339 | 1592 |
-| last720d | 2024-11-20 | 100 | 3124 | 514 | 1141 | 728 | 3769 |
+| 30d | 2026-10-12 | 3 | 90 | 97 | 12 | 42 | 115 |
+| last60d | 2026-09-12 | 7 | 148 | 163 | 32 | 87 | 218 |
+| 90d | 2026-08-13 | 12 | 253 | 209 | 65 | 107 | 351 |
+| last180d | 2026-05-15 | 26 | 506 | 328 | 158 | 189 | 673 |
+| 360d | 2025-11-16 | 63 | 1344 | 430 | 364 | 337 | 1603 |
+| last720d | 2024-11-21 | 100 | 3126 | 474 | 1134 | 725 | 3769 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [aws-cdk-2.275.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-2.275.0.zip) | 1.4 GiB | `other` |
-| [aws-cdk-2.275.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-2.275.0.zip.sig) | 566 B | `other` |
-| [aws-cdk-dotnet-docs-2.275.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-dotnet-docs-2.275.0.zip) | 242.1 MiB | `other` |
-| [aws-cdk-dotnet-docs-2.275.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-dotnet-docs-2.275.0.zip.sig) | 566 B | `other` |
-| [aws-cdk-java-docs-2.275.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-java-docs-2.275.0.zip) | 703.1 MiB | `other` |
-| [aws-cdk-java-docs-2.275.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-java-docs-2.275.0.zip.sig) | 566 B | `other` |
-| [aws-cdk-python-docs-2.275.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-python-docs-2.275.0.zip) | 373.1 MiB | `other` |
-| [aws-cdk-python-docs-2.275.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-python-docs-2.275.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-2.276.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.276.0/aws-cdk-2.276.0.zip) | 1.4 GiB | `other` |
+| [aws-cdk-2.276.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.276.0/aws-cdk-2.276.0.zip.sig) | 566 B | `other` |
 
 ## Distribution status
 
@@ -95,4 +89,4 @@ Install metadata for aws-cdk lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:18:16Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:09:59Z._

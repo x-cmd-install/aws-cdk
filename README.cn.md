@@ -14,13 +14,13 @@ x install aws-cdk
 
 ## 代码洞察
 
-合计: **25,631,871** 行代码（覆盖前 5 种语言、共 **25463** 个文件）。
+合计: **26,902,432** 行代码（覆盖前 5 种语言、共 **25546** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 21,089,240 | 887,594 | 85,392 | 1829 |
-| Json | 3,603,414 | 0 | 75 | 16461 |
-| TypeScript | 889,870 | 252,096 | 134,584 | 6522 |
+| JavaScript | 22,365,612 | 966,753 | 89,615 | 1834 |
+| Json | 3,596,367 | 0 | 75 | 16533 |
+| TypeScript | 891,106 | 252,441 | 134,788 | 6528 |
 | Python | 43,513 | 5,785 | 10,492 | 544 |
 | Yaml | 2,146 | 29 | 137 | 107 |
 
@@ -42,41 +42,35 @@ x install aws-cdk
 
 ## 发布
 
-- **最新版本**: `v2.275.0` (2026-10-26)
-- **最近提交**: 2026-11-09
-- **Release 含资产**: 8 个
+- **最新版本**: `v2.276.0` (2026-11-10)
+- **最近提交**: 2026-11-10
+- **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 12,972 · **Fork**: 4,671 · **开放 issue**: 16,693 · **贡献者**: 1,752
+- **Star**: 12,972 · **Fork**: 4,673 · **开放 issue**: 16,693 · **贡献者**: 1,753
 
 ## 累计统计
 
-- **发布数**: 705 · **已合并 PR**: 16185 · **开放 PR**: 516 · **已关闭 issue**: 14268 · **开放 issue**: 2425 · **提交数**: 18309
+- **发布数**: 706 · **已合并 PR**: 16194 · **开放 PR**: 476 · **已关闭 issue**: 14270 · **开放 issue**: 2423 · **提交数**: 18321
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 91 | 106 | 13 | 46 | 104 |
-| last60d | 2026-09-11 | 6 | 144 | 164 | 31 | 89 | 207 |
-| 90d | 2026-08-12 | 11 | 255 | 211 | 64 | 109 | 340 |
-| last180d | 2026-05-14 | 25 | 504 | 340 | 157 | 192 | 662 |
-| 360d | 2025-11-15 | 62 | 1335 | 459 | 363 | 339 | 1592 |
-| last720d | 2024-11-20 | 100 | 3124 | 514 | 1141 | 728 | 3769 |
+| 30d | 2026-10-12 | 3 | 90 | 97 | 12 | 42 | 115 |
+| last60d | 2026-09-12 | 7 | 148 | 163 | 32 | 87 | 218 |
+| 90d | 2026-08-13 | 12 | 253 | 209 | 65 | 107 | 351 |
+| last180d | 2026-05-15 | 26 | 506 | 328 | 158 | 189 | 673 |
+| 360d | 2025-11-16 | 63 | 1344 | 430 | 364 | 337 | 1603 |
+| last720d | 2024-11-21 | 100 | 3126 | 474 | 1134 | 725 | 3769 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [aws-cdk-2.275.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-2.275.0.zip) | 1.4 GiB | `other` |
-| [aws-cdk-2.275.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-2.275.0.zip.sig) | 566 B | `other` |
-| [aws-cdk-dotnet-docs-2.275.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-dotnet-docs-2.275.0.zip) | 242.1 MiB | `other` |
-| [aws-cdk-dotnet-docs-2.275.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-dotnet-docs-2.275.0.zip.sig) | 566 B | `other` |
-| [aws-cdk-java-docs-2.275.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-java-docs-2.275.0.zip) | 703.1 MiB | `other` |
-| [aws-cdk-java-docs-2.275.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-java-docs-2.275.0.zip.sig) | 566 B | `other` |
-| [aws-cdk-python-docs-2.275.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-python-docs-2.275.0.zip) | 373.1 MiB | `other` |
-| [aws-cdk-python-docs-2.275.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.275.0/aws-cdk-python-docs-2.275.0.zip.sig) | 566 B | `other` |
+| [aws-cdk-2.276.0.zip](https://github.com/aws/aws-cdk/releases/download/v2.276.0/aws-cdk-2.276.0.zip) | 1.4 GiB | `other` |
+| [aws-cdk-2.276.0.zip.sig](https://github.com/aws/aws-cdk/releases/download/v2.276.0/aws-cdk-2.276.0.zip.sig) | 566 B | `other` |
 
 ## 发行版状态
 
@@ -95,4 +89,4 @@ aws-cdk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:18:17Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T06:10:00Z._
