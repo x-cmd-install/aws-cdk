@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1507500601,
       "digest": "sha256:bf7e9f447d1da92cbb518d09cd311367712d947ea435f3ba64855d489b6defb0",
-      "download_count": 5,
+      "download_count": 10,
       "created_at": "2026-11-13T11:00:09Z",
       "updated_at": "2026-11-13T11:00:48Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.277.0/aws-cdk-2.277.0.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:8c26af2a96ee59294a92b38d9f0770602d6e3598213ba5fe45fdfe6110dd5827",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-13T11:00:48Z",
       "updated_at": "2026-11-13T11:00:49Z",
       "browser_download_url": "https://github.com/aws/aws-cdk/releases/download/v2.277.0/aws-cdk-2.277.0.zip.sig"
